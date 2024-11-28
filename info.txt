@@ -1,1 +1,2 @@
 STD stands for STD stands for sexually transmitted disease.
+Analiyses and Prediton copy.ipynb is a backup file for working purpose.
